@@ -5,10 +5,10 @@ Include the date you created this project and README file.
 October 23 , 2021
 
 ### Project Title
-Replace the Project Title
+Working with Git and Gitgub
 
 ### Description
-Describe what your project is about and what it does
+To be able to use git to do collaboration with other developers through github
 
 ### Files used
 Include the files used
