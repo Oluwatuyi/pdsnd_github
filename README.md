@@ -11,8 +11,10 @@ Working with Git and Gitgub
 To be able to use git to do collaboration with other developers through github
 
 ### Files used
-Include the files used
+Bikeshare.py
+chicago, new-york-city and washinghton csv files
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+thanks to Bikeshare for csv file access
+https://github.com/UDACITY/pdsnd_github
